@@ -1,4 +1,4 @@
-Employee recognition system using deep neural network
+# [ENG] Employee recognition system using deep neural network
 
 
 The project concerned the realization and implementation of a system consisting of a deep neural network, which will enable face detection in the image provided on the network in the form of a photo and identification of the person on it. The project was written in Python 3.8 in the PyCharm environment. The database was constructed on the basis of selected databases (AT&T and Yale Face Database) and own photos. The tasks included: 
@@ -14,7 +14,7 @@ The project concerned the realization and implementation of a system consisting 
 _______________________________________________________________________________________________________
 
 
-System rozpoznający pracowników za  pomocą głębokich sieci neuronowych
+# [PL] System rozpoznający pracowników za  pomocą głębokich sieci neuronowych
 
 
 Projekt  dotyczył realizacji i implementacji systemu złożonego z głębokiej sieci neuronowej, który umożliwi detekcję twarzy w obrazie podanym na sieć w formie zdjęcia oraz identyfikację znajdującej się na nim osoby. Projekt został napisany w języku Python 3.8 w środowisku PyCharm. Baza danych została skonstruowana w oparciu o wybrane bazy 
